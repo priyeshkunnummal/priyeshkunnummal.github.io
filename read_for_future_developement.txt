@@ -1,0 +1,6 @@
+https://deanattali.com/2015/03/12/beautiful-jekyll-how-to-build-a-site-in-minutes/
+http://api.jqueryui.com/
+https://learn.jquery.com/plugins/#Getting_Started
+https://github.com/h5bp/html5-boilerplate/blob/6.1.0/dist/doc/html.md
+https://www.markdowntutorial.com/lesson/3/
+https://github.com/daattali/beautiful-jekyll#readme
